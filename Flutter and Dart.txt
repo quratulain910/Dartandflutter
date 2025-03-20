@@ -1,0 +1,14 @@
+Dart language deal with browser and this is called computrer language type. Developed by 'Google'
+
+Dart is open source and dart is object oriented programing language.
+
+Dart can be used to develop web and mobile apps as well as server and desktop applications.
+
+Flutter is an open source UI software development kit and flutter was created by 'Google' 
+
+Flutter build cross-platform applications for various devices from a single codebase.
+
+Flutter launched in 2018, it mainly support mobile app development. Like IOS, Andriod, the web, Windows, Macos, and Linux
+
+
+
