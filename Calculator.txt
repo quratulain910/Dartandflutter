@@ -1,0 +1,30 @@
+Calculator
+  
+  int num1 = 2;
+  
+  int num2 = 3;
+  
+  int add = num1 + num2;
+  
+  int mul = num1 * num2;
+  
+  int div = num1 ~/ num2;
+  
+  num number = num1 / num2;
+  
+  double numberOne = num1 / num2;
+  
+  print("by adding $add");
+  print("by subtracting $mul");
+  print("by multiplying $div");
+  print("by dividing ${number.toStringAsFixed(2)}");
+  print("by numbering ${numberOne.toStringAsFixed(2)}");
+ }
+
+Output
+
+by adding 5
+by subtracting 6
+by multiplying 0
+by dividing 0.67
+by numbering 0.67
